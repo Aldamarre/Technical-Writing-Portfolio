@@ -34,6 +34,12 @@ This assignment includes both a descriptive abstract and an informative abstract
 
 ---
 
+## Unit 4.2 – Technical Presentation Exercise
+A slideshow titled *“The Role of Cryptography in Network Security,”* explaining what cryptography is, why it matters, common encryption methods, and how it protects modern networks. Shows my ability to create clear visual explanations of technical topics.  
+**File:** `Unit_4.2_Technical_Presentation.pptx`  
+
+---
+
 ## Unit 6.1 – Technical Proposal Writing  
 **File:** `Unit_6.1_Technical_Proposal.docx`
 
